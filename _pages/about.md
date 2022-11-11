@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I'm an Assistant Professor at UCSD jointly appointed by Computer Science and Halıcıoğlu Data Science Institute. I obtained my Ph.D. from UIUC advised by Prof. Jiawei Han in 2019. I received my B.E. from SJTU in 2014. I'm also a coach of the UCSD's ACM-ICPC team.
+I am a PhD candidate in the Public Administration and Policy program at UGA. My dissertation should be complete by Spring 2024.
 
 ## Research Interests
 

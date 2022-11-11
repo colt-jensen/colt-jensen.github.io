@@ -13,11 +13,9 @@ I am a PhD candidate in the Public Administration and Policy program at UGA. My 
 
 ## Research Interests
 
-I'm broadly interested in Data Mining Problems and Applications:
-- Text Mining, Information Extraction, and Natural Language Processing
-- Structured Mining in Large-Scale Text-Rich Networks
-- Understanding and Improving Deep Neural Networks
-- Interdisciplinary Applications (e.g., Biomedical, IoT, ...)
+I'm broadly interested in topics related to public personnel administration and public management at the state and local levels of U.S. government. For example:
+- Understanding how varying degrees of rurality influence local government decision making and networking behaviors
+- The evolving relationship between government labor unions and public personnel outcomes
 
 Most of my research projects focus on (1) developing principled data-driven approaches with light human effort and (2) building effective and robust machine learning models in an efficient way.
 

@@ -81,14 +81,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jingbo Shang"
+  name             : "Colt Jensen"
   avatar           : "/img/avatar.jpg"
-  bio              : "Assistant Professor"
+  bio              : "PhD Candiate"
   location         : "CSE 4104 / SDSC 211E"
-  employer         : "University of California, San Diego"
+  employer         : "University of Georgia, Athens"
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=0SkFI4MAAAAJ&hl=en"
-  email            : "jshang@ucsd.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=XkCEPH4AAAAJ&hl=en&oi=ao"
+  email            : "colt.jensen@uga.edu"
   # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   # uri              :
   # bitbucket        :
@@ -97,7 +97,7 @@ author:
   # flickr           :
   # facebook         :
   # foursquare       :
-  github           : "shangjingbo1226"
+  github           : "colt-jensen"
   # google_plus      :
   # keybase          :
   # instagram        :
@@ -110,7 +110,7 @@ author:
   # stackoverflow    : # http://stackoverflow.com/users/123456/username
   # steam            :
   # tumblr           :
-  # twitter          : "replacethistwitterhandle"
+  twitter          : "colt_jensen"
   # vine             :
   # weibo            :
   # xing             :

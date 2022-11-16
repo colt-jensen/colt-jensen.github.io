@@ -9,10 +9,10 @@ main:
   - title: "Experience"
     url: /cv/
 
-  - title: "Awards"
-    url: /awards/
+  #- title: "Awards"
+    #url: /awards/
             
-  - title: "Blog Posts"
-    url: /year-archive/
+  #- title: "Blog Posts"
+    #url: /year-archive/
     
   

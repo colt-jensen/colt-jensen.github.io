@@ -4,6 +4,6 @@ This website is built on a Github Pages template for academic websites. This was
 
 See more info at https://academicpages.github.io/
 
-You can also find me on [Mastodon](<a rel="me" href="https://mastodon.social/@coltjensen">Mastodon</a>)
+You can also find me on <a rel="me" href="https://mastodon.social/@coltjensen">Mastodon</a>
 
 

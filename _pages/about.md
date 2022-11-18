@@ -17,5 +17,5 @@ I'm broadly interested in topics related to public personnel administration and 
 - Understanding how varying degrees of rurality influence local government decision making and networking behaviors
 - The evolving relationship between government labor unions and public personnel outcomes
 
-
+You can also find me on <a rel="me" href="https://mastodon.social/@coltjensen">Mastodon</a>
 

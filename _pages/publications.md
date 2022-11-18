@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-[[Google Scholar](https://scholar.google.com/citations?user=0SkFI4MAAAAJ&hl=en) \| [DBLP](http://dblp.uni-trier.de/pers/hd/s/Shang:Jingbo)] (\* Equal Contribution)
+[[Google Scholar](https://scholar.google.com/citations?hl=en&user=XkCEPH4AAAAJ)] 
 
 ### Book
 * [Phrase Mining from Massive Text and Its Applications](http://www.morganclaypool.com/doi/abs/10.2200/S00759ED1V01Y201702DMK013) <br/>

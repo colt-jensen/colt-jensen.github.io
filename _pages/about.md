@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a PhD candidate in the Public Administration and Policy program at UGA. My dissertation will be complete by Summer 2024.
+I am a PhD candidate in the Public Administration and Policy program at UGA. My dissertation will be complete by Summer 2024. 
 
 ## Research Interests
 

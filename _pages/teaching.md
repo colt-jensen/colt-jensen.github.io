@@ -16,7 +16,7 @@ author_profile: true
 
   •Fall, Spring, Summer: In-person 2018-2019  
   
-  •Online: asynchronous 2020
+  •Online: asynchronous 2020 
 
 [Syllabus](/files/BUS2001Syllabus.pdf)
 

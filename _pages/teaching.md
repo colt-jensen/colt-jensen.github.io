@@ -14,7 +14,7 @@ author_profile: true
 ### Appalachian State University 
 - BUS2001: Professional Development and Resume Writing 
 
-  •Fall, Spring, Summer: In-person 2018-2019  
+  •Fall, Spring, Summer: In-person 2018-2019   
   
   •Online: asynchronous 2020 
 

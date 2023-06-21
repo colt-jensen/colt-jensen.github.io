@@ -13,7 +13,7 @@ Colt Jensen is a Ph.D. candidate in the Public Administration and Policy program
 
 ## Research Interests
 
-I'm broadly interested in topics related to public personnel administration and public management at the state and local levels of U.S. government. This includes:
+I am broadly interested in topics related to public personnel administration and public management at the state and local levels of U.S. government. This includes:
 - Understanding how varying degrees of rurality influence local government decision-making and networking behaviors
 - The evolving relationship between government labor unions and public personnel outcomes
 - How theories of intergovernmental collaboration such as the ICA framework apply to rural local governance networks

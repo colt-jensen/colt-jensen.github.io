@@ -9,13 +9,14 @@ redirect_from:
 ---
 
 
-I am a PhD candidate in the Public Administration and Policy program at UGA. I am working to complete my dissertation by summer 2024. 
+Colt Jensen is a Ph.D. candidate in the Public Administration and Policy program at the University of Georgia. He specializes in local government management, public personnel administration, and network governance. He is working to complete his dissertation by summer 2024. 
 
 ## Research Interests
 
 I'm broadly interested in topics related to public personnel administration and public management at the state and local levels of U.S. government. This includes:
-- Understanding how varying degrees of rurality influence local government decision making and networking behaviors
+- Understanding how varying degrees of rurality influence local government decision-making and networking behaviors
 - The evolving relationship between government labor unions and public personnel outcomes
+- How theories of intergovernmental collaboration such as the ICA framework apply to rural local governance networks
 
 You can also find me on <a rel="me" href="https://mastodon.social/@coltjensen">Mastodon</a>
 

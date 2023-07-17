@@ -18,5 +18,4 @@ Thank you for visiting my website! I am broadly interested in topics related to 
 - The evolving relationship between government labor unions and public personnel outcomes
 - How theories of intergovernmental collaboration such as the ICA framework apply to rural local governance networks
 
-You can also find me on <a rel="me" href="https://mastodon.social/@coltjensen">Mastodon</a>
 

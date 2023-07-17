@@ -20,7 +20,7 @@ author_profile: true
 
 [Syllabus](/files/BUS2001Syllabus.pdf)
 
-[Course Evaluation](/files/evaluation.pdf)
+[Course Evaluations](/files/evaluation.pdf)
 
 ### Selected Student Comments
 

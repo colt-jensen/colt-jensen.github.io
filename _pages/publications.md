@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-[[Google Scholar](https://scholar.google.com/citations?hl=en&user=XkCEPH4AAAAJ)] 
+[[Google Scholar](https://scholar.google.com/citations?hl=en&user=XkCEPH4AAAAJ)]  
 
 ### Book Chapter
 * [Public Budgeting Mechanics](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003240440-4/public-budgeting-mechanics-katherine-willoughby-colt-jensen) in [Teaching Public Budgeting in Finance](https://doi.org/10.4324/9781003240440) edited by Bruce D. McDonald III & Meagan M. Jordan <br/>

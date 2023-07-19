@@ -10,6 +10,7 @@ author_profile: true
 
 ### University of Georgia
 -PADP 4200: Introduction to Local Government
+
   •Spring 2024: In-person
 
 ### Appalachian State University 
@@ -32,6 +33,7 @@ author_profile: true
 ## Teaching Assistant
 ### University of Georgia
 -POLS 1101: American Government
+
   •Fall 2023: In-person
 
 ## Teaching Certificate

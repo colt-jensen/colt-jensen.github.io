@@ -29,8 +29,8 @@ author_profile: true
 - "Prompt, fantastic course formatting very well done. Available to student questions, very helpful."
 - "Good communication skills. Gave weekly updates on new assignments and on how I was doing in the course."
 
-##Teaching Assistant
-###University of Georgia
+## Teaching Assistant
+### University of Georgia
 -POLS 1101: American Government
   •Fall 2023: In-person
 

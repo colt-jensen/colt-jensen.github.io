@@ -8,7 +8,7 @@ author_profile: true
 
 ## Instructor of Record
 
-###University of Georgia
+### University of Georgia
 -PADP 4200: Introduction to Local Government
   •Spring 2024: In-person
 

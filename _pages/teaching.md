@@ -9,7 +9,7 @@ author_profile: true
 ## Instructor of Record
 
 ### University of Georgia
--PADP 4200: Introduction to Local Government
+- PADP 4200: Introduction to Local Government
 
   •Spring 2024: In-person
 
@@ -32,7 +32,7 @@ author_profile: true
 
 ## Teaching Assistant
 ### University of Georgia
--POLS 1101: American Government
+- POLS 1101: American Government
 
   •Fall 2023: In-person
 

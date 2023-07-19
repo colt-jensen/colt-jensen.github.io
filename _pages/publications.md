@@ -19,10 +19,8 @@ Katherine Willoughby and Colt Jensen. Routledge, 2021.
 Colt Jensen. DOI: [10.1111/padm.12767](https://doi.org/10.1111/padm.12767).
 
 ### Professional Technical Reports
-Bell,  Emily  V.,  Colt  Jensen,  and  Megan  Mullin.   (2021).   “The  State  of  Community  Water  Systems: Pressures, Goals, and Innovations in North Carolina."
-	https://www.evbell.com/publications 
+* Bell,  Emily  V.,  Colt  Jensen,  and  Megan  Mullin.   (2021).   [“The  State  of  Community  Water  Systems: Pressures, Goals, and Innovations in North Carolina."](https://www.evbell.com/publications)
 
 ### Special Issue Introduction and Editorial Assistance - State and Local Government Review
 
-Kimberly Nelson, Eric Zeemering, and Colt Jensen. (2023). “Protecting Democracy: Virtual Issue for the 2023 American Society for Public Administration Conference.”
-	https://journals.sagepub.com/topic/collections-slg/slg_1-protecting_democracy/slg
+*Kimberly Nelson, Eric Zeemering, and Colt Jensen. (2023). [“Protecting Democracy: Virtual Issue for the 2023 American Society for Public Administration Conference.”](https://journals.sagepub.com/topic/collections-slg/slg_1-protecting_democracy/slg)

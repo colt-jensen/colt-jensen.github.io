@@ -23,4 +23,4 @@ Colt Jensen. DOI: [10.1111/padm.12767](https://doi.org/10.1111/padm.12767).
 
 ### Special Issue Introduction and Editorial Assistance - State and Local Government Review
 
-*Kimberly Nelson, Eric Zeemering, and Colt Jensen. (2023). [“Protecting Democracy: Virtual Issue for the 2023 American Society for Public Administration Conference.”](https://journals.sagepub.com/topic/collections-slg/slg_1-protecting_democracy/slg)
+* Kimberly Nelson, Eric Zeemering, and Colt Jensen. (2023). [“Protecting Democracy: Virtual Issue for the 2023 American Society for Public Administration Conference.”](https://journals.sagepub.com/topic/collections-slg/slg_1-protecting_democracy/slg)

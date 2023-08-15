@@ -36,6 +36,8 @@ author_profile: true
 
   •Fall 2023: In-person
 
+[Syllabus](/files/POLS1101Syllabus.pdf)
+
 ## Teaching Certificate
 
 [University of Georgia GradTeach](https://www.ctl.uga.edu/grad-student/programs/certificate/) In-Progress

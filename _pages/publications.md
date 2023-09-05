@@ -10,7 +10,7 @@ author_profile: true
 [[Google Scholar](https://scholar.google.com/citations?hl=en&user=XkCEPH4AAAAJ)]  
 
 ### Peer-Reviewed Journal Articles
-* **Jensen, Colt** & Piatak, J. S. (2023). Public Service Motivation and Trust in Government: An Examination across the Federal, State, and Local Levels in the United States. American Review of Public Administration. (Accepted and Forthcoming)
+* **Jensen, Colt** and Piatak, J. S. (2023). Public Service Motivation and Trust in Government: An Examination across the Federal, State, and Local Levels in the United States. American Review of Public Administration. (Accepted and Forthcoming)
 
 
 ### Book Chapter

@@ -10,6 +10,8 @@ redirect_from:
 
 Colt Jensen is a Ph.D. candidate in the Public Administration and Policy program at the University of Georgia. He specializes in local government management, public personnel administration, and network governance. His current research focuses on the evolving influence of government labor unions on public personnel outcomes, rural local governance, and the role of public values in decision-making processes. He is working to complete his dissertation by summer 2024.
 
+His most recent publication is now available online in the [American Review of Public Administration](https://doi.org/10.1177/02750740231200449).
+
 ## Research Interests
 
 Thank you for visiting my website! I am currently working on my dissertation and several other exciting research projects. Below, I have outlined the research questions that are driving my dissertation research. 

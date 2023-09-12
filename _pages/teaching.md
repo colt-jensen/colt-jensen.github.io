@@ -13,6 +13,16 @@ author_profile: true
 
   •Spring 2024: In-person
 
+## Teaching Assistant
+### University of Georgia
+- POLS 1101: American Government
+
+  •Fall 2023: In-person
+
+[Syllabus](/files/POLS1101Syllabus.pdf)
+
+## Instructor of Record
+
 ### Appalachian State University 
 - BUS2001: Business Career Development and Resume Writing 
 
@@ -30,13 +40,7 @@ author_profile: true
 - "Prompt, fantastic course formatting very well done. Available to student questions, very helpful."
 - "Good communication skills. Gave weekly updates on new assignments and on how I was doing in the course."
 
-## Teaching Assistant
-### University of Georgia
-- POLS 1101: American Government
 
-  •Fall 2023: In-person
-
-[Syllabus](/files/POLS1101Syllabus.pdf)
 
 ## Teaching Certificate
 

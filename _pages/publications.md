@@ -10,7 +10,7 @@ author_profile: true
 [[Google Scholar](https://scholar.google.com/citations?hl=en&user=XkCEPH4AAAAJ)]  
 
 ### Peer-Reviewed Journal Articles
-* **Jensen, Colt** and Piatak, J. S. (2023). [Public Service Motivation and Trust in Government: An Examination across the Federal, State, and Local Levels in the United States](https://doi.org/10.1177/02750740231200449). American Review of Public Administration. DOI: [10.1177/02750740231200449](https://doi.org/10.1177/02750740231200449)
+* **Jensen, Colt** and Piatak, J. S. (2023). [Public Service Motivation and Trust in Government: An Examination across the Federal, State, and Local Levels in the United States](https://doi.org/10.1177/02750740231200449). _American Review of Public Administration._ DOI: [10.1177/02750740231200449](https://doi.org/10.1177/02750740231200449)
 
 
 ### Book Chapter
@@ -18,7 +18,7 @@ author_profile: true
 
 ### Book Review
 
-* **Colt Jensen**. (2021).[Public Service Motivation and Public Opinion: Examining Antecedents and Attitudes](https://doi.org/10.1111/padm.12767). DOI: [10.1111/padm.12767](https://doi.org/10.1111/padm.12767).
+* **Colt Jensen**. (2021).[Public Service Motivation and Public Opinion: Examining Antecedents and Attitudes](https://doi.org/10.1111/padm.12767). _Public Administration._ DOI: [10.1111/padm.12767](https://doi.org/10.1111/padm.12767).
 
 ### Professional Technical Reports
 * Bell,  Emily  V.,  **Colt  Jensen**,  and  Megan  Mullin.   (2021).   [“The  State  of  Community  Water  Systems: Pressures, Goals, and Innovations in North Carolina."](https://www.evbell.com/publications)

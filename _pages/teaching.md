@@ -4,9 +4,9 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-
-## University of Georgia
 <hr>
+## University of Georgia
+
 ### Instructor of Record
 
 - PADP 4200: Introduction to Local Government
@@ -20,7 +20,7 @@ author_profile: true
   •Fall 2023: In-person
 
 [Syllabus](/files/POLS1101Syllabus.pdf)
-
+<hr>
 ## Appalachian State University 
 ### Instructor of Record
 - BUS2001: Business Career Development and Resume Writing 

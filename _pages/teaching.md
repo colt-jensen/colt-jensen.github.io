@@ -39,7 +39,7 @@ author_profile: true
 - "Prompt, fantastic course formatting very well done. Available to student questions, very helpful."
 - "Good communication skills. Gave weekly updates on new assignments and on how I was doing in the course."
 
-
+<br>
 
 ### Teaching Certificate
 

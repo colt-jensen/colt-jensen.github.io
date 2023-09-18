@@ -5,25 +5,24 @@ permalink: /teaching/
 author_profile: true
 ---
 
+# University of Georgia
 
 ## Instructor of Record
 
-### University of Georgia
 - PADP 4200: Introduction to Local Government
 
   •Spring 2024: In-person
 
 ## Teaching Assistant
-### University of Georgia
+
 - POLS 1101: American Government
 
   •Fall 2023: In-person
 
 [Syllabus](/files/POLS1101Syllabus.pdf)
 
+# Appalachian State University 
 ## Instructor of Record
-
-### Appalachian State University 
 - BUS2001: Business Career Development and Resume Writing 
 
   •Fall, Spring, Summer: In-person 2018-2019   

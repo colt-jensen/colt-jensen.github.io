@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## University of Georgia
-
+<hr>
 ### Instructor of Record
 
 - PADP 4200: Introduction to Local Government

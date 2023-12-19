@@ -20,7 +20,9 @@ author_profile: true
   •Fall 2023: In-person
 
 [Syllabus](/files/POLS1101Syllabus.pdf)
+
 [Teaching Evaluation 1](/files/Jensen1101.pdf)
+
 [Teaching Evaluation 2](/files/Jensen1101_2.pdf)
 <hr>
 ## Appalachian State University 

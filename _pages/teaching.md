@@ -13,6 +13,8 @@ author_profile: true
 
   •Spring 2024: In-person
 
+[Syllabus](/files/PADP4200Syllabus.pdf)
+
 ### Teaching Assistant
 
 - POLS 1101: American Government

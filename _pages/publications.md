@@ -20,7 +20,7 @@ author_profile: true
 
 ### Book Review
 
-* **Colt Jensen**. (2021).[Public Service Motivation and Public Opinion: Examining Antecedents and Attitudes](https://doi.org/10.1111/padm.12767). _Public Administration._ DOI: [10.1111/padm.12767](https://doi.org/10.1111/padm.12767).
+* **Colt Jensen**. (2021). [Public Service Motivation and Public Opinion: Examining Antecedents and Attitudes](https://doi.org/10.1111/padm.12767). _Public Administration._ DOI: [10.1111/padm.12767](https://doi.org/10.1111/padm.12767).
 
 ### Professional Technical Reports
 * Bell,  Emily  V.,  **Colt  Jensen**,  and  Megan  Mullin.   (2021).   [“The  State  of  Community  Water  Systems: Pressures, Goals, and Innovations in North Carolina."](https://www.evbell.com/publications)

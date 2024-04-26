@@ -10,7 +10,7 @@ author_profile: true
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=XkCEPH4AAAAJ) | [Orcid](https://orcid.org/0000-0003-2698-5154) 
 
 ### Peer-Reviewed Journal Articles
-* Piatak, Jacyln S. and **Jensen, Colt** (2024). Public Service Motivation and Trust in Government: An Examination across the Federal, State, and Local Levels in the United States. _Public Administration Review._ DOI: [10.1111/puar.13794](https://doi.org/10.1111/puar.13794)
+* Piatak, Jacyln S. and **Jensen, Colt** (2024). Public values and sector service delivery preferences: Public preferences on contracting from simple to complex human services. _Public Administration Review._ DOI: [10.1111/puar.13794](https://doi.org/10.1111/puar.13794)
 
 * **Jensen, Colt** and Piatak, Jacyln S. (2023). Public Service Motivation and Trust in Government: An Examination across the Federal, State, and Local Levels in the United States. _American Review of Public Administration._ DOI: [10.1177/02750740231200449](https://doi.org/10.1177/02750740231200449)
 

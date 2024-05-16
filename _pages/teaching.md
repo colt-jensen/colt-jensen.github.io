@@ -15,6 +15,8 @@ author_profile: true
 
 [Syllabus](/files/PADP4200Syllabus.pdf)
 
+[Teaching Evaluation](/files/UGA_Evals_CJ.pdf)
+
 ### Teaching Assistant
 
 - POLS 1101: American Government

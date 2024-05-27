@@ -48,9 +48,6 @@ author_profile: true
 - "Good communication skills. Gave weekly updates on new assignments and on how I was doing in the course."
 
 <hr>
-### Teaching Certificate
-
-[University of Georgia GradTeach](https://www.ctl.uga.edu/grad-student/programs/certificate/) In-Progress
 
 
 

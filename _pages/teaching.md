@@ -4,6 +4,14 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+<style>
+    .teaching-section {
+        border-bottom: 2px solid #000; /* Add solid border at the bottom of each teaching section */
+        margin-bottom: 20px; /* Add some space between sections */
+        padding-bottom: 20px; /* Add padding at the bottom for better spacing */
+    }
+</style>
+
 <div class="teaching-section">
     <h2>University of Georgia</h2>
     <div class="teaching-subsection">
@@ -53,6 +61,7 @@ author_profile: true
         </ul>
     </div>
 </div>
+
 
 
 

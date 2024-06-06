@@ -20,11 +20,18 @@ author_profile: true
 <div class="teaching-section">
     <h2>Georgia Southern University</h2>
     <div class="teaching-subsection">
-        <h3>Instructor of Record</h3>
+        <h3>Master's Level Courses</h3>
         <ul>
             <li>
                 <strong>PBAD 7430: Public Human Resource Management</strong>
                 <p>Fall 2024: In-person</p>
+            </li>
+        </ul>
+    </div>
+     <div class="teaching-subsection">
+        <h3>Undergraduate Courses</h3>
+        <ul>
+            <li>
                 <strong>PBAD 3331: Applied Public Management</strong>
                 <p>Fall 2024: In-person</p>
             </li>

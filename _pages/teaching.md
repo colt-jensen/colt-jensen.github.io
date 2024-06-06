@@ -15,26 +15,6 @@ author_profile: true
         margin-bottom: 20px; /* Add some space below the line */
     }
 </style>
-
-<div class="black-line"></div>
-
----
-layout: archive
-title: "Teaching"
-permalink: /teaching/
-author_profile: true
----
-<style>
-    .teaching-section {
-        border-bottom: 2px solid #000; /* Add solid border at the bottom of each teaching section */
-        margin-bottom: 20px; /* Add some space between sections */
-        padding-bottom: 20px; /* Add padding at the bottom for better spacing */
-    }
-    .black-line {
-        border-bottom: 2px solid #000; /* Add solid black line */
-        margin-bottom: 20px; /* Add some space below the line */
-    }
-</style>
 <div class="black-line"></div>
 
 <div class="teaching-section">

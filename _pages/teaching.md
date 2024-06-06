@@ -27,12 +27,6 @@ author_profile: true
                 <p>Fall 2024: In-person</p>
             </li>
         </ul>
-            <ul>
-            <li>
-                <strong>PBAD 7430: Public Human Resource Management</strong>
-                <p>Fall 2024: In-person</p>
-            </li>
-        </ul>
     </div>
      <div class="teaching-subsection">
         <h3>Undergraduate Courses</h3>

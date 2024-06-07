@@ -24,7 +24,7 @@ author_profile: true
         <ul>
             <li>
                 <strong>PBAD 7430: Public Human Resource Management</strong>
-                <p>Fall 2024: In-person</p>
+                <p>Fall 2024 - Hybrid: In-person & Online </p>
             </li>
         </ul>
     </div>
@@ -33,7 +33,7 @@ author_profile: true
         <ul>
             <li>
                 <strong>PBAD 3331: Applied Public Management</strong>
-                <p>Fall 2024: In-person</p>
+                <p>Fall 2024 - Online</p>
             </li>
         </ul>
     </div>

@@ -25,6 +25,7 @@ author_profile: true
             <li>
                 <strong>PBAD 7430: Public Human Resource Management</strong>
                 <p>Fall 2024 - Hybrid: In-person & Online </p>
+                <a href="/files/PBAD7430_Public_HR_Jensen.pdf">Syllabus (Draft)</a> |
             </li>
         </ul>
     </div>

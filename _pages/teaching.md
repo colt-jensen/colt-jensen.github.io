@@ -35,7 +35,7 @@ author_profile: true
             <li>
                 <strong>PBAD 3331: Applied Public Management</strong>
                 <p>Fall 2024 - Online</p>
-                <a href="/files/PBAD3310_Applied_Pub_MGMT_Jensen.pdf">Syllabus (Draft)</a> 
+                <a href="/files/PBAD3331_Applied_Pub_MGMT_Jensen.pdf">Syllabus (Draft)</a> 
             </li>
         </ul>
     </div>

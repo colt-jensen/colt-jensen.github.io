@@ -9,5 +9,5 @@ If you'd like to get into contact with me, I recommend email. I also maintain a 
 
 * University email: cjensen@georgiasouthern.edu
 * Twitter/Threads: [colt_jensen_](https://twitter.com/colt_jensen_)
-* Google Scholar: [author:Colt-Jensen](https://scholar.google.com/citations?user=XkCEPH4AAAAJ&hl=en)
+* [Google Scholar](https://scholar.google.com/citations?user=XkCEPH4AAAAJ&hl=en)
 * LinkedIn: [coltjensen](https://www.linkedin.com/in/coltjensen/)

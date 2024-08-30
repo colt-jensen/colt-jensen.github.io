@@ -25,7 +25,7 @@ author_profile: true
             <li>
                 <strong>PBAD 7430: Public Human Resource Management</strong>
                 <p>Fall 2024 - Hybrid: In-person & Online </p>
-                <a href="/files/PBAD7430_Public_HR_Jensen.pdf">Syllabus (Draft)</a> 
+                <a href="/files/PBAD7430_Public_HR_Management_Jensen.pdf">Syllabus</a> 
             </li>
         </ul>
     </div>
@@ -35,7 +35,7 @@ author_profile: true
             <li>
                 <strong>PBAD 3331: Applied Public Management</strong>
                 <p>Fall 2024 - Online</p>
-                <a href="/files/PBAD_3331_Applied_Pub_MGMT_Jensen.pdf">Syllabus (Draft)</a> 
+                <a href="/files/PBAD_3331_Applied_Pub_MGMT_Jensen.pdf">Syllabus</a> 
             </li>
         </ul>
     </div>

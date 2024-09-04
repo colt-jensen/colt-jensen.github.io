@@ -71,7 +71,7 @@ author_profile: true
         <ul>
             <li>"Professor Jensen was a great instructor to have. He was very engaging and organized, and you can tell he was well-informed and passionate about what he teaches."</li>
             <li>"The instructor for this course was very organized with the course material and taught it well. He was also very interactive with students and responded very quickly to emails."</li>
-            <li>"After taking this course I am very interested in applying for UGA’s MPA."</li>
+            <li>"After taking this course I am very interested in applying for UGA’s MPA [program]."</li>
         </ul>
       </div>
 </div>

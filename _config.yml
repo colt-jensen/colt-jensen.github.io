@@ -80,7 +80,7 @@ analytics:
 
 
 # Site Author
-author: "Colt Jensen"
+author: 
   name             : "Colt Jensen"
   avatar           : "/img/headshot.jpg"
   bio              : "Assistant Professor"
@@ -88,7 +88,6 @@ author: "Colt Jensen"
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=XkCEPH4AAAAJ&hl=en&oi=ao"
   email            : "cjensen@georgiasouthern.edu"
-  bluesky          : "bsky.app" "colt-jensen"
   # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   # uri              :
   # bitbucket        :

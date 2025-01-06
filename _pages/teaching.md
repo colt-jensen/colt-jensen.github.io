@@ -22,10 +22,20 @@ author_profile: true
     <div class="teaching-subsection">
         <h3>Master's Level Courses</h3>
         <ul>
+                          <li>
+                <strong>PBAD 7134: Advanced Public Management</strong>
+                <p>Spring 2025 - Online</p>
+                <a href="/files/PBAD7134_Syllabus.pdf">Syllabus</a> 
+            </li>
             <li>
                 <strong>PBAD 7430: Public Human Resource Management</strong>
                 <p>Fall 2024 - Hybrid: In-person & Online </p>
                 <a href="/files/PBAD7430_Public_HR_Management_Jensen.pdf">Syllabus</a> 
+            </li>
+              <li>
+                <strong>PBAD 7631: Advanced Public Management</strong>
+                <p>Spring 2025 - Online</p>
+                <a href="/files/PBAD7631_Syllabus.pdf">Syllabus</a> 
             </li>
         </ul>
     </div>

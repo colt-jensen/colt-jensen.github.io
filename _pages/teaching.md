@@ -33,7 +33,7 @@ author_profile: true
                 <a href="/files/PBAD7430_Public_HR_Management_Jensen.pdf">Syllabus</a> 
             </li>
               <li>
-                <strong>PBAD 7631: Advanced Public Management</strong>
+                <strong>PBAD 7631: Foundations of Public Administration</strong>
                 <p>Spring 2025 - Online</p>
                 <a href="/files/PBAD7631_Syllabus.pdf">Syllabus</a> 
             </li>

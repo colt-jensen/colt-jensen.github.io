@@ -25,17 +25,20 @@ author_profile: true
                           <li>
                 <strong>PBAD 7134: Advanced Public Management</strong>
                 <p>Spring 2025 - Online</p>
-                <a href="/files/PBAD7134_Syllabus.pdf">Syllabus</a> 
+                <a href="/files/PBAD7134_Syllabus.pdf">Syllabus</a>
+                <a href="/files/PBAD7134-Student Evaluations.pdf">Teaching Evaluation</a>
             </li>
             <li>
                 <strong>PBAD 7430: Public Human Resource Management</strong>
                 <p>Fall 2024 - Hybrid: In-person & Online </p>
-                <a href="/files/PBAD7430_Public_HR_Management_Jensen.pdf">Syllabus</a> 
+                <a href="/files/PBAD7430_Public_HR_Management_Jensen.pdf">Syllabus</a>
+                <a href="/files/PBAD7430-StudentEvaluations.pdf">Teaching Evaluation</a>
             </li>
               <li>
                 <strong>PBAD 7631: Foundations of Public Administration</strong>
                 <p>Spring 2025 - Online</p>
                 <a href="/files/PBAD7631_Syllabus.pdf">Syllabus</a> 
+                <a href="/files/PBAD7631-StudentEvaluations.pdf">Teaching Evaluation</a>
             </li>
         </ul>
     </div>
@@ -45,7 +48,8 @@ author_profile: true
             <li>
                 <strong>PBAD 3331: Applied Public Management</strong>
                 <p>Fall 2024 - Online</p>
-                <a href="/files/PBAD_3331_Applied_Pub_MGMT_Jensen.pdf">Syllabus</a> 
+                <a href="/files/PBAD_3331_Applied_Pub_MGMT_Jensen.pdf">Syllabus</a>
+                <a href="/files/PBAD3331-StudentEvaluations.pdf">Teaching Evaluation</a>
             </li>
         </ul>
     </div>

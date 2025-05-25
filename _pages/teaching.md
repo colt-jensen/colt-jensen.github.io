@@ -25,19 +25,19 @@ author_profile: true
                           <li>
                 <strong>PBAD 7134: Advanced Public Management</strong>
                 <p>Spring 2025 - Online</p>
-                <a href="/files/PBAD7134_Syllabus.pdf">Syllabus</a>
+                <a href="/files/PBAD7134_Syllabus.pdf">Syllabus</a> |
                 <a href="/files/PBAD7134-Student Evaluations.pdf">Teaching Evaluation</a>
             </li>
             <li>
                 <strong>PBAD 7430: Public Human Resource Management</strong>
                 <p>Fall 2024 - Hybrid: In-person & Online </p>
-                <a href="/files/PBAD7430_Public_HR_Management_Jensen.pdf">Syllabus</a>
+                <a href="/files/PBAD7430_Public_HR_Management_Jensen.pdf">Syllabus</a> |
                 <a href="/files/PBAD7430-StudentEvaluations.pdf">Teaching Evaluation</a>
             </li>
               <li>
                 <strong>PBAD 7631: Foundations of Public Administration</strong>
                 <p>Spring 2025 - Online</p>
-                <a href="/files/PBAD7631_Syllabus.pdf">Syllabus</a> 
+                <a href="/files/PBAD7631_Syllabus.pdf">Syllabus</a> |
                 <a href="/files/PBAD7631-StudentEvaluations.pdf">Teaching Evaluation</a>
             </li>
         </ul>
@@ -48,12 +48,20 @@ author_profile: true
             <li>
                 <strong>PBAD 3331: Applied Public Management</strong>
                 <p>Fall 2024 - Online</p>
-                <a href="/files/PBAD_3331_Applied_Pub_MGMT_Jensen.pdf">Syllabus</a>
+                <a href="/files/PBAD_3331_Applied_Pub_MGMT_Jensen.pdf">Syllabus</a> |
                 <a href="/files/PBAD3331-StudentEvaluations.pdf">Teaching Evaluation</a>
             </li>
         </ul>
-    </div>
- </div>
+     </div>
+    <div class="teaching-subsection">
+        <h3>Selected Student Comments</h3>
+        <ul>
+            <li>"Professor Jensen's very informative and exciting lectures, the weekly study guides, the additional materials that were made available, and ALL of his feedback have been absolutely phenomenal and have contributed to my learning. He has thoroughly explained concepts and responds to emails, Perusall messages, and Folio messages very quickly. Professor Jensen has truly left no brick unturned. He has it figured out! Kudos, kudos, kudos!!!"</li>
+            <li>"While there were required readings, Dr. Jensen also provided additional readings so that students like me could dive deeper and find greater context for the content. The lectures were precise, which I appreciate, and he gave us a lot of autonomy on how to do our work. Additionally, I disclosed there were some family matters that may arise during the semester, and he gave me empathy, understanding, as well as provided me with resources and flexibility for if there were ever a time I'd need it. I very much appreciated that."</li>
+            <li>"I appreciate the activity-based approach of this [HRM] course, as it focuses on real-life applications rather than conventional assignments or homework. These activities help us connect classroom learning to real-world scenarios, making the lessons more practical and engaging. "</li>
+        </ul>
+      </div>
+</div>
 
 <div class="teaching-section">
     <h2>University of Georgia</h2>

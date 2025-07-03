@@ -10,10 +10,14 @@ author_profile: true
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=XkCEPH4AAAAJ) | [Orcid](https://orcid.org/0000-0003-2698-5154) 
 
 ### Peer-Reviewed Journal Articles
+
+* **Jensen, Colt**. (2025). Beyond Census Metrics: Toward a More Inclusive Understanding of Rurality and its Effects on Organizational Capacities in Georgia. _American Review of Public Administration._ DOI: [10.1177/02750740251355241](https://doi.org/10.1177/02750740251355241)
+* 
+* **Jensen, Colt** and Charile Chen (2025). Governing AI in the EU: public perception, policy dilemmas, and the path forward. _Global Public Policy and Governance._ DOI: [10.1007/s43508-025-00114-y](https://doi.org/10.1007/s43508-025-00114-y)
+
 * Piatak, Jacyln S. and **Jensen, Colt** (2024). Public values and sector service delivery preferences: Public preferences on contracting from simple to complex human services. _Public Administration Review._ DOI: [10.1111/puar.13794](https://doi.org/10.1111/puar.13794)
 
 * **Jensen, Colt** and Piatak, Jacyln S. (2023). Public Service Motivation and Trust in Government: An Examination across the Federal, State, and Local Levels in the United States. _American Review of Public Administration._ DOI: [10.1177/02750740231200449](https://doi.org/10.1177/02750740231200449)
-
 
 ### Book Chapter
 * Katherine Willoughby and **Colt Jensen**. (2021). [Public Budgeting Mechanics](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003240440-4/public-budgeting-mechanics-katherine-willoughby-colt-jensen) in [Teaching Public Budgeting in Finance](https://doi.org/10.4324/9781003240440) edited by Bruce D. McDonald III & Meagan M. Jordan. Routledge.

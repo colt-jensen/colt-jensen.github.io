@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Colt's Homepage!"
+title: "Colt Jensen's Professional Website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

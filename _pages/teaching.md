@@ -25,6 +25,9 @@ author_profile: true
                                   <li>
                 <strong>PUBA 709: Foundations of Public Administration</strong>
                 <p>Fall 2025 - Online</p>
+                    </li>
+        </ul>
+    </div>
 <div class="black-line"></div>
 
 <div class="teaching-section">

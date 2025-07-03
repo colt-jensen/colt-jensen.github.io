@@ -22,6 +22,16 @@ author_profile: true
     <div class="teaching-subsection">
         <h3>Master's Level Courses</h3>
         <ul>
+                                  <li>
+                <strong>PUBA 709: Foundations of Public Administration</strong>
+                <p>Fall 2025 - Online</p>
+<div class="black-line"></div>
+
+<div class="teaching-section">
+    <h2>Georgia Southern University</h2>
+    <div class="teaching-subsection">
+        <h3>Master's Level Courses</h3>
+        <ul>
                           <li>
                 <strong>PBAD 7134: Advanced Public Management</strong>
                 <p>Spring 2025 - Online</p>

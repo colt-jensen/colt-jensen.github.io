@@ -18,7 +18,7 @@ author_profile: true
 <div class="black-line"></div>
 
 <div class="teaching-section">
-    <h2>Georgia Southern University</h2>
+    <h2>UNC Chapel Hill</h2>
     <div class="teaching-subsection">
         <h3>Master's Level Courses</h3>
         <ul>

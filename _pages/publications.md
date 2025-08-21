@@ -11,6 +11,8 @@ author_profile: true
 
 ### Peer-Reviewed Journal Articles
 
+* Favero, N., **Jensen, C.**, Kim, M. Piatak, J. (2025). Which Public Values are Most Important? Linking Political Ideology and Public Service Motivation to Public Values Preferences. _American Review of Public Administration._ DOI: [10.1177/02750740251367718](https://doi.org/10.1177/02750740251367718)
+
 * **Jensen, Colt**. (2025). Beyond Census Metrics: Toward a More Inclusive Understanding of Rurality and its Effects on Organizational Capacities in Georgia. _American Review of Public Administration._ DOI: [10.1177/02750740251355241](https://doi.org/10.1177/02750740251355241)
   
 * **Jensen, Colt** and Charile Chen (2025). Governing AI in the EU: public perception, policy dilemmas, and the path forward. _Global Public Policy and Governance._ DOI: [10.1007/s43508-025-00114-y](https://doi.org/10.1007/s43508-025-00114-y)

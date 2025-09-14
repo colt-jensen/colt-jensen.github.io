@@ -132,4 +132,3 @@ author_profile: true
             <li>"Good communication skills. Gave weekly updates on new assignments and on how I was doing in the course."</li>
         </ul>
     </div>
-</div>

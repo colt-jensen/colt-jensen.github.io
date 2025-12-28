@@ -31,7 +31,6 @@ author_profile: true
         <ul>
             <li>"Dr. Jensen--Probably one of the best professors I have ever had (both graduate and undergraduate level). I signed up for another course with Dr. Jensen because his teaching style is professional, yet I still felt comfortable enough to engage with the material. He created a respected learning environment and used every minute of class to benefit our coursework. Everything was done with intention, as a busy student working full-time, I actually looked forward to our Wednesday night lecture as I believe it has truly helped me become a better public servant."</li>
             <li>"The support from Colt was amazing. He was available for phone calls, emails, and zoom and was very quick to respond. I was not expecting that level of personalization. Thanks!"</li>
-    </div>
 <div class="black-line"></div>
 
 <div class="teaching-section">

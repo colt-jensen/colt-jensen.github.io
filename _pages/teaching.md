@@ -136,4 +136,3 @@ author_profile: true
             <li>"Prompt, fantastic course formatting very well done. Available to student questions, very helpful."</li>
             <li>"Good communication skills. Gave weekly updates on new assignments and on how I was doing in the course."</li>
         </ul>
-    </div>

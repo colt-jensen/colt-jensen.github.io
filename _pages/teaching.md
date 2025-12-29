@@ -25,7 +25,6 @@ author_profile: true
                 <strong>PUBA 709: Foundations of Public Administration</strong>
                 <p>Fall 2025 - Online</p>
                 <a href="/files/PUBA_709.pdf">Teaching Evaluation</a>
-                    </li>
             </li>
         </ul>
         <h3>Selected Student Comments</h3>

@@ -26,6 +26,7 @@ author_profile: true
                 <p>Fall 2025 - Online</p>
                 <a href="files/PUBA_709.pdf">Teaching Evaluation</a>
                     </li>
+            </li>
         </ul>
         <h3>Selected Student Comments</h3>
         <ul>

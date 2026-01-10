@@ -11,6 +11,12 @@ author_profile: true
 
 ### Peer-Reviewed Journal Articles
 
+* **Jensen, Colt** (2026). 40 Years of Rural Research in Public Administration: Definitions, Evidence, and Future Avenues for Research._Public Administration Review._ DOI: [10.1111/puar.70084](https://doi.org/10.1111/puar.70084)
+
+* **Jensen, Colt**. (2026). Beyond Census Metrics: Toward a More Inclusive Understanding of Rurality and its Effects on Organizational Capacities in Georgia. _Administration & Society_ DOI: [10.1177/02750740251355241](https://doi.org/10.1177/02750740251355241)
+  
+* Piatak, Jacyln S. and **Jensen, Colt** (2026). Safeguarding Merit: Citizen Support for Civil Service Protections Against Political Interference._Public Administration Review._ DOI: [10.1111/puar.70079](https://doi.org/10.1111/puar.70079)
+
 * Favero, N., **Jensen, C.**, Kim, M. Piatak, J. (2025). Which Public Values are Most Important? Linking Political Ideology and Public Service Motivation to Public Values Preferences. _American Review of Public Administration._ DOI: [10.1177/02750740251367718](https://doi.org/10.1177/02750740251367718)
 
 * **Jensen, Colt**. (2025). Beyond Census Metrics: Toward a More Inclusive Understanding of Rurality and its Effects on Organizational Capacities in Georgia. _American Review of Public Administration._ DOI: [10.1177/02750740251355241](https://doi.org/10.1177/02750740251355241)

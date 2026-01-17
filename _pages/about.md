@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 --- 
 
-Hello! I’m Colt. I am an Assistant Professor in the School of Government at the University of North Carolina at Chapel Hill, where I study how local governments build capacity, legitimacy, and trust—particularly outside of large metropolitan contexts.
+I am an Assistant Professor in the School of Government at the University of North Carolina at Chapel Hill, where I study how local governments build capacity, legitimacy, and trust—particularly outside of large metropolitan contexts.
 
 My research examines state and local government management, rural governance, and intergovernmental collaboration. I focus on how public values shape citizen preferences, administrative behavior, and service delivery; how local governments adapt to capacity constraints; and how formalized networks and collaborations influence governance outcomes. Across projects, I am especially interested in how trust in government is built, maintained, and sometimes undermined across levels of government.
 

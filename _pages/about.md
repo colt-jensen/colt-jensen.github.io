@@ -8,9 +8,15 @@ redirect_from:
   - /about.html
 --- 
 
-Colt Jensen is an Assistant Professor in the School of Government at the University of North Carolina at Chapel Hill. He specializes in state and local government management, building trust in government, and network governance. His current research focuses on rural local governance, the role of public values in government decision-making processes, and formalized inter-governmental collaboration. 
+Hello! I’m Colt. I am an Assistant Professor in the School of Government at the University of North Carolina at Chapel Hill, where I study how local governments build capacity, legitimacy, and trust—particularly outside of large metropolitan contexts.
 
-His most recent publications are now available online in [Public Administration Review](https://onlinelibrary.wiley.com/doi/epdf/10.1111/puar.13794) and in [The American Review of Public Administration](https://doi.org/10.1177/02750740251355241).
+My research examines state and local government management, rural governance, and intergovernmental collaboration. I focus on how public values shape citizen preferences, administrative behavior, and service delivery; how local governments adapt to capacity constraints; and how formalized networks and collaborations influence governance outcomes. Across projects, I am especially interested in how trust in government is built, maintained, and sometimes undermined across levels of government.
+
+My research has been published in _Public Administration Review_, The _American Review of Public Administration_, _Administration & Society_, and other leading journals. I am also a co-editor of the forthcoming second edition of Intergovernmental Relations in Transition.
+
+I earned my Ph.D. in Public Administration and Policy from the University of Georgia and previously served as an Assistant Professor in the Department of Public and Nonprofit Studies at Georgia Southern University. I am actively involved in the American Society for Public Administration, the Public Management Research Association, and the International City/County Management Association.
+
+My most recent publications are now available online in [Public Administration Review](https://onlinelibrary.wiley.com/doi/epdf/10.1111/puar.13794) and in [The American Review of Public Administration](https://doi.org/10.1177/02750740251355241).
 
 
 

@@ -14,7 +14,7 @@ My research examines state and local government management, rural governance, an
 
 My research has been published in _Public Administration Review_, The _American Review of Public Administration_, _Administration & Society_, and other leading journals. I am also a co-editor of the forthcoming second edition of Intergovernmental Relations in Transition.
 
-I earned my Ph.D. in Public Administration and Policy from the University of Georgia and previously served as an Assistant Professor in the Department of Public and Nonprofit Studies at Georgia Southern University. I am actively involved in the American Society for Public Administration, the Public Management Research Association, and the International City/County Management Association.
+I earned my Ph.D. in Public Administration and Policy from the University of Georgia and previously served as an Assistant Professor in the Department of Public and Nonprofit Studies at Georgia Southern University. I am actively involved in the American Society for Public Administration's Section on Interngovernmental Administration and Management (SIAM), the Tribal Relations Working Group ([TRWG](https://linktr.ee/tribalrelations)) and the International City/County Management Association's (ICMA) Graduate Education Committee.
 
 My most recent publications are now available online in [Public Administration Review](https://onlinelibrary.wiley.com/doi/epdf/10.1111/puar.13794) and in [The American Review of Public Administration](https://doi.org/10.1177/02750740251355241).
 

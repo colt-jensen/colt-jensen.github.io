@@ -7,7 +7,14 @@ author_profile: true
 
 {% include base_path %}
 
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=XkCEPH4AAAAJ) | [Orcid](https://orcid.org/0000-0003-2698-5154) 
+<div style="margin-bottom: 1.5em;">
+  <a href="https://scholar.google.com/citations?hl=en&user=XkCEPH4AAAAJ" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #4285F4; color: white; text-decoration: none; border-radius: 4px; margin-right: 10px; font-size: 14px;">
+    <i class="ai ai-google-scholar" style="margin-right: 6px;"></i>Google Scholar
+  </a>
+  <a href="https://orcid.org/0000-0003-2698-5154" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #A6CE39; color: white; text-decoration: none; border-radius: 4px; font-size: 14px;">
+    <i class="ai ai-orcid" style="margin-right: 6px;"></i>ORCID
+  </a>
+</div>
 
 ### Peer-Reviewed Journal Articles
 

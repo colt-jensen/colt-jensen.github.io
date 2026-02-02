@@ -6,9 +6,12 @@ author_profile: true
 ---
 <style>
     .teaching-section {
-        border-bottom: 2px solid #000; /* Add solid border at the bottom of each teaching section */
-        margin-bottom: 20px; /* Add some space between sections */
-        padding-bottom: 20px; /* Add padding at the bottom for better spacing */
+        border-bottom: 2px solid #000;
+        margin-bottom: 20px;
+        padding-bottom: 20px;
+    }
+    .teaching-section:last-child {
+        border-bottom: none;
     }
     .black-line {
         border-bottom: 2px solid #000; /* Add solid black line */
@@ -136,3 +139,5 @@ author_profile: true
             <li>"Prompt, fantastic course formatting very well done. Available to student questions, very helpful."</li>
             <li>"Good communication skills. Gave weekly updates on new assignments and on how I was doing in the course."</li>
         </ul>
+    </div>
+</div>

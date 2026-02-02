@@ -10,13 +10,3 @@ In addition to studying public administration, I enjoy being outdoors and hiking
 <img src="/images/IMG_2365.jpeg" width="400" /> <img src="/images/IMG_2364.jpeg" width="400"/>
 
 <img src="/images/IMG_1814.jpeg" width="400" /> <img src="/images/3.jpg" width="400"/>
-
----
-
-## Contact
-
-If you'd like to get in contact with me, I recommend email. I also maintain a minimal presence on social media.
-
-* **Email:** [cjensen@sog.unc.edu](mailto:cjensen@sog.unc.edu)
-* **LinkedIn:** [coltjensen](https://www.linkedin.com/in/coltjensen/)
-* **Google Scholar:** [Colt Jensen](https://scholar.google.com/citations?user=XkCEPH4AAAAJ&hl=en)

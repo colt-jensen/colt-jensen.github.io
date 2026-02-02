@@ -1,22 +1,56 @@
 ---
 permalink: /
-title: "Colt Jensen's Professional Website"
-excerpt: "About me"
+title: "Colt Jensen"
+excerpt: "Assistant Professor, UNC School of Government"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
---- 
+---
 
-I am an Assistant Professor in the School of Government at the University of North Carolina at Chapel Hill, where I study how local governments build capacity, legitimacy, and trust—particularly outside of large metropolitan contexts.
+I am an Assistant Professor in the [School of Government](https://www.sog.unc.edu/) at the University of North Carolina at Chapel Hill, where I study how local governments build capacity, legitimacy, and trust—particularly outside of large metropolitan contexts.
 
-My research examines state and local government management, rural governance, and intergovernmental collaboration. I focus on how public values shape citizen preferences, administrative behavior, and service delivery; how local governments adapt to capacity constraints; and how formalized networks and collaborations influence governance outcomes. Across projects, I am especially interested in how trust in government is built, maintained, and sometimes undermined across levels of government.
+---
 
-My research has been published in _Public Administration Review_, The _American Review of Public Administration_, _Administration & Society_, and other leading journals. I am also a co-editor of the forthcoming second edition of [Intergovernmental Relations in Transition](https://www.taylorfrancis.com/books/edit/10.4324/9781351182164/intergovernmental-relations-transition-david-hamilton-carl-stenberg).
+## Research Areas
 
-I earned my Ph.D. in Public Administration and Policy from the University of Georgia and previously served as an Assistant Professor in the Department of Public and Nonprofit Studies at Georgia Southern University. I am actively involved in the American Society for Public Administration's Section on Interngovernmental Administration and Management (SIAM), the Tribal Relations Working Group ([TRWG](https://linktr.ee/tribalrelations)) and the International City/County Management Association's (ICMA) Graduate Education Committee.
+**Local Governance & Capacity**
+How local governments adapt to capacity constraints and build institutional strength
 
-My most recent publications are now available online in [Public Administration Review](https://onlinelibrary.wiley.com/doi/10.1111/puar.70084) and in [The American Review of Public Administration](https://doi.org/10.1177/02750740251355241).
+**Rural Public Administration**
+Governance challenges and opportunities outside metropolitan contexts
 
+**Intergovernmental Relations**
+How formalized networks and collaborations influence governance outcomes
 
+**Public Values & Trust**
+How values shape citizen preferences, administrative behavior, and trust in government
 
+---
+
+## Recent News
+
+**2026** — New article on rural research published in [*Public Administration Review*](https://onlinelibrary.wiley.com/doi/10.1111/puar.70084)
+
+**2026** — Article on rurality and organizational capacity published in [*American Review of Public Administration*](https://doi.org/10.1177/02750740251355241)
+
+**2026** — Co-editor of [*Intergovernmental Relations in Transition*](https://www.taylorfrancis.com/books/edit/10.4324/9781351182164/intergovernmental-relations-transition-david-hamilton-carl-stenberg) (2nd edition)
+
+---
+
+## Education & Service
+
+I earned my Ph.D. in Public Administration and Policy from the University of Georgia and previously served as an Assistant Professor at Georgia Southern University.
+
+**Professional Service:**
+- [ASPA Section on Intergovernmental Administration and Management (SIAM)](https://www.aspanet.org/)
+- [Tribal Relations Working Group (TRWG)](https://linktr.ee/tribalrelations)
+- ICMA Graduate Education Committee
+
+---
+
+## Selected Publications
+
+My research has been published in *Public Administration Review*, *American Review of Public Administration*, *Administration & Society*, and other leading journals.
+
+[View all publications →](/publications/)

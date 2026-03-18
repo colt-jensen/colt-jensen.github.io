@@ -47,7 +47,7 @@ author_profile: true
 * Colt Jensen, [Author Profile](https://ced.sog.unc.edu/author/cjensen1/), Community and Economic Development Blog
 
 ### Professional Technical Reports
-* **Colt  Jensen**  and  Selina Ayittah.   (2026).   [“Local Government Collaboration in Georgia: A Report to Survey Participants"](https://www.evbell.com/publications)
+* **Colt  Jensen**  and  Selina Ayittah.   (2026).   <a href="/files/Local Government Collaboration Report_2026.pdf">"Local Government Collaboration in Georgia: A Report to Survey Participants"</a>
 
 * Bell,  Emily  V.,  **Colt  Jensen**,  and  Megan  Mullin.   (2021).   [“The  State  of  Community  Water  Systems: Pressures, Goals, and Innovations in North Carolina."](https://www.evbell.com/publications)
 

@@ -24,6 +24,8 @@ author_profile: true
   
 * Piatak, Jacyln S. and **Jensen, Colt** (2026). Safeguarding Merit: Citizen Support for Civil Service Protections Against Political Interference. _Public Administration Review._ DOI: [10.1111/puar.70079](https://doi.org/10.1111/puar.70079)
 
+* **Jensen, Colt** and Piatak, Jacyln S. (2026). Authoritarian Attitudes and Public Service Motivation: Examining Trust Across Levels of Government in the United States. _American Review of Public Administration._ DOI: [10.1177/02750740261433596](https://doi.org/10.1177/02750740261433596)
+
 * Favero, N., **Jensen, Colt**, Kim, M. Piatak, J. (2025). Which Public Values are Most Important? Linking Political Ideology and Public Service Motivation to Public Values Preferences. _American Review of Public Administration._ DOI: [10.1177/02750740251367718](https://doi.org/10.1177/02750740251367718)
 
 * **Jensen, Colt**. (2025). Beyond Census Metrics: Toward a More Inclusive Understanding of Rurality and its Effects on Organizational Capacities in Georgia. _American Review of Public Administration._ DOI: [10.1177/02750740251355241](https://doi.org/10.1177/02750740251355241)
@@ -45,6 +47,8 @@ author_profile: true
 * Colt Jensen, [Author Profile](https://ced.sog.unc.edu/author/cjensen1/), Community and Economic Development Blog
 
 ### Professional Technical Reports
+* **Colt  Jensen**  and  Selina Ayittah.   (2026).   [“Local Government Collaboration in Georgia: A Report to Survey Participants"](https://www.evbell.com/publications)
+
 * Bell,  Emily  V.,  **Colt  Jensen**,  and  Megan  Mullin.   (2021).   [“The  State  of  Community  Water  Systems: Pressures, Goals, and Innovations in North Carolina."](https://www.evbell.com/publications)
 
 ### Special Issue Introduction and Editorial Assistance - State and Local Government Review

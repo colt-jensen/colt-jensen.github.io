@@ -24,6 +24,10 @@ author_profile: true
     <div class="teaching-subsection">
         <h3>Master's Level Courses</h3>
         <ul>
+                            <li>
+                <strong>PUBA 751: Local Government Management</strong>
+                <p>Fall 2026 - Online</p>
+                <a href="/files/puba_751_evals.pdf">Teaching Evaluation</a>
                                   <li>
                 <strong>PUBA 709: Foundations of Public Administration</strong>
                 <p>Fall 2025 - Online</p>

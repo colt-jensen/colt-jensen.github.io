@@ -67,6 +67,7 @@ author_profile: true
     <ul class="comment-list">
       <li>"Dr. Jensen--Probably one of the best professors I have ever had (both graduate and undergraduate level). I signed up for another course with Dr. Jensen because his teaching style is professional, yet I still felt comfortable enough to engage with the material. He created a respected learning environment and used every minute of class to benefit our coursework. Everything was done with intention, as a busy student working full-time, I actually looked forward to our Wednesday night lecture as I believe it has truly helped me become a better public servant."</li>
       <li>"Dr. Jensen is an excellent instructor. He has clear and comprehensive knowledge of the topics and theories, as well as extensive knowledge of practicable application of the theories and topics. Dr. Jensen was quickly available to any student with a question."</li>
+      <li>"Dr. Colt Jensen is the strongest part of this course. He is fair, patient, and determined for students to understand the material in a way that is applicable in our current or future careers. As an instructor, he filled in gaps in professional experience and understanding wonderfully."</li>
     </ul>
   </div>
 </section>

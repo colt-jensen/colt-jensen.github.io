@@ -51,7 +51,7 @@ author_profile: true
     <ul class="course-list">
       <li>
         <strong>PUBA 751: Local Government Management</strong>
-        <p class="course-meta">Fall 2026 | Online</p>
+        <p class="course-meta">Spring 2026 | Online</p>
         <a href="/files/puba_751_evals.pdf">Teaching Evaluation</a>
       </li>
       <li>

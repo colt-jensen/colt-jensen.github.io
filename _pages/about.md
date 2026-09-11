@@ -12,11 +12,11 @@ I am an Assistant Professor in the School of Government at the University of Nor
 
 My research examines state and local government management, rural governance, and intergovernmental collaboration. I focus on how public values shape citizen preferences, administrative behavior, and service delivery; how local governments adapt to capacity constraints; and how formalized networks and collaborations influence governance outcomes. Across projects, I am especially interested in how trust in government is built, maintained, and sometimes undermined across levels of government.
 
-My research has been published in _Jounal of Public Administration Research and Theory_, _Public Administration Review_, The _American Review of Public Administration_, and other peer-reviewed journals. I am also a co-editor of the forthcoming second edition of [Intergovernmental Relations in Transition](https://www.taylorfrancis.com/books/edit/10.4324/9781351182164/intergovernmental-relations-transition-david-hamilton-carl-stenberg).
+My research has been published in _Journal of Public Administration Research and Theory_, _Public Administration Review_, The _American Review of Public Administration_, and other peer-reviewed journals. I am also a co-editor of the forthcoming second edition of [Intergovernmental Relations in Transition](https://www.taylorfrancis.com/books/edit/10.4324/9781351182164/intergovernmental-relations-transition-david-hamilton-carl-stenberg).
 
 I earned my Ph.D. in Public Administration and Policy from the University of Georgia and previously served as an Assistant Professor in the Department of Public and Nonprofit Studies at Georgia Southern University. I am actively involved in the American Society for Public Administration's Section on Intergovernmental Administration and Management ([SIAM](https://aspa-siam.github.io/)), the Tribal Relations Working Group ([TRWG](https://linktr.ee/tribalrelations)), and the International City/County Management Association's (ICMA) [Academic Relations Committee](https://members.icma.org/eweb/DynamicPage.aspx?WebCode=AcademicRelations).
 
-My most recent publications are now available online in [Public Administration Review](https://onlinelibrary.wiley.com/doi/10.1111/puar.70084) and in [The American Review of Public Administration](https://doi.org/10.1177/02750740251355241).
+My most recent publications are now available online in the [Journal of Public Administration Research and Theory](https://doi.org/10.1093/jopart/muag018), [Public Administration Review](https://onlinelibrary.wiley.com/doi/10.1111/puar.70084), and [The American Review of Public Administration](https://doi.org/10.1177/02750740251355241).
 
 
 

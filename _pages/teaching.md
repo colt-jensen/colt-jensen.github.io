@@ -17,6 +17,7 @@ author_profile: true
   }
 
   .teaching-school h2 {
+    margin-top: 0;
     margin-bottom: 0.75rem;
   }
 
@@ -25,6 +26,7 @@ author_profile: true
   }
 
   .teaching-subsection h3 {
+    margin-top: 0;
     margin-bottom: 0.5rem;
   }
 

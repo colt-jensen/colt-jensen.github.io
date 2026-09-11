@@ -50,6 +50,11 @@ author_profile: true
     <h3>Master's Level Courses</h3>
     <ul class="course-list">
       <li>
+        <strong>PUBA 739: Governing Across Boundaries: Intergovernmental and Cross-Sector Collaboration</strong>
+        <p class="course-meta">Fall 2026 | In-person</p>
+        <a href="/files/puba_739_course_resources_fa26.pdf">Course Resources</a>
+      </li>
+      <li>
         <strong>PUBA 751: Local Government Management</strong>
         <p class="course-meta">Spring 2026 | Online</p>
         <a href="/files/puba_751_evals.pdf">Teaching Evaluation</a>

@@ -18,6 +18,8 @@ author_profile: true
 
 ### Peer-Reviewed Journal Articles
 
+* Piatak, Jaclyn S. and **Jensen, Colt** (2026). Does Level of Government and Messaging Influence Public Evacuations? Examining Public Compliance and Agency Trust. _Public Management Review._ DOI: [10.1080/14719037.2026.2738179](https://doi.org/10.1080/14719037.2026.2738179)
+
 * Lofaro, Ryan, Elizabeth Bell, and **Jensen, Colt** (2026). Representative Bureaucracy and Administrative Burdens: Exploring the Intersection of Lived Experience, Gender, and Professional Qualities. _Journal of Public Administration Research and Theory._ DOI: [10.1093/jopart/muag018](https://doi.org/10.1093/jopart/muag018)
 
 * **Jensen, Colt** (2026). 40 Years of Rural Research in Public Administration: Definitions, Evidence, and Future Avenues for Research. _Public Administration Review._ DOI: [10.1111/puar.70084](https://doi.org/10.1111/puar.70084)

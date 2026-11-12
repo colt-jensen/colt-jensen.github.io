@@ -40,7 +40,7 @@ author_profile: true
 
 * **Jensen, Colt** and Piatak, Jaclyn S. (2024). Public Service Motivation and Trust in Government: An Examination across the Federal, State, and Local Levels in the United States. _American Review of Public Administration._ DOI: [10.1177/02750740231200449](https://doi.org/10.1177/02750740231200449)
 
-### Book
+### Books
 * Rebecca L. Fisher-Gabbard and **Colt Jensen**. (2026). [_Board-Manager Roles, Responsibilities, and Relationships_](https://www.sog.unc.edu/publications/books/board-manager-roles-responsibilities-and-relationships). Local Government Board Builders Series. Chapel Hill, NC: UNC School of Government. ISBN 978-1-64238-138-2.
 
 ### Book Chapter
